@@ -43,5 +43,5 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
+    implements 'com.facebook.react:react-native:+'
 }
